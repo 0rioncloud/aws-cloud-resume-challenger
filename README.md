@@ -32,7 +32,7 @@ Alguns links serão adicionados para esclarecer os serviços e funcionalidades u
 
 ## [Resultado Final](https://cv.salmeidacloud.com)
 
-# 1. Construção do CSS
+# 1. Construção do HTML e CSS
 O HTML e CSS foram feitos com base em um template para facilitar a construção do projeto. Você pode encontrar diversos templates na página clicando [aqui](https://www.free-css.com/template-categories/portfolio). Usando um template ou não, basta adicionar suas informações e atualizar o CSS conforme desejado. Com o HTML e CSS personalizados, podemos seguir para a próxima etapa.
 
 # 2. Hospedagem de Site Estático no S3
